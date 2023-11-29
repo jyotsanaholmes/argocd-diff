@@ -1,6 +1,5 @@
 apiVersion: user.openshift.io/v1
 kind: Group
 metadata:
-  argocd.argoproj.io/managed-by: openshift-gitops
   name: test-group
 users: null
